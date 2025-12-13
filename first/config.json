@@ -1,28 +1,38 @@
 {
-  "title": "💫 Celebrating Your Brilliance",
-  "subtitle": "An elegant nod to the strength and spirit you embody.",
+  "title": "💫 پاسداشت شکوه و توانمندی",
+  "subtitle": "ادای احترامی صمیمی به اندیشه، تلاش و درخششی که می‌آفرینید.",
   "images": [
-    {"src": "first/1.jpg", "alt": "A woman confidently walking forward"},
-    {"src": "first/2.jpg", "alt": "A minimal, artistic floral design"}
+    {
+      "src": "first/1.jpg",
+      "alt": "زنی با قدم‌هایی استوار رو به آینده"
+    },
+    {
+      "src": "first/2.jpg",
+      "alt": "طراحی هنری گل با فضایی مینیمال"
+    }
   ],
   "message": {
     "desktop": [
-      "To [Colleague's Name] —",
+      "به همکار گرامی —",
       "",
-      "This day is a tribute to the effortless grace and formidable power you bring to the world.",
-      "In a space where excellence is the goal, you don't just participate; you **define** it.",
-      "May your path be paved with the successes you deserve and the recognition you've earned.",
+      "امروز، فرصتی است برای قدردانی از حضوری که با تعهد، آگاهی و ظرافت همراه است.",
+      "شما با نگاه مسئولانه و توان حرفه‌ای خود، نقشی فراتر از یک عنوان شغلی ایفا می‌کنید.",
+      "در مسیری که کیفیت و پیشرفت معنا دارد، اثر شما الهام‌بخش و ماندگار است.",
+      "امید که مسیر پیش‌رو، سرشار از موفقیت، آرامش و فرصت‌های درخشان باشد.",
       "",
-      "Happy Women's Day.",
-      "[Your Name]"
+      "روز زن مبارک 🌸",
+      "با احترام —",
+      "تیم شرکت"
     ],
-    "mobile": "Happy Women's Day. Keep defining excellence. ✨"
+    "mobile": "روز زن مبارک 🌸 حضورتان الهام‌بخش و ارزشمند است."
   },
   "music": {
-    "src": "first/music.mp3",
+    "src": "first/inspirational-ambient.mp3",
     "type": "audio/mpeg",
-    "title": "Inspiring Cinematic Loop",
-    "meta": "Tap play for a high-vibe, minimal soundtrack."
+    "title": "Soft Cinematic Inspiration",
+    "meta": "برای تجربه‌ای آرام و الهام‌بخش، پخش را فعال کنید."
   },
-  "slider": { "autoplayMs": 10000 }
+  "slider": {
+    "autoplayMs": 10000
+  }
 }
