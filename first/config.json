@@ -1,25 +1,28 @@
 {
-  "title": "💌 Celebrating You! Happy Women's Day",
-  "subtitle": "Elegant, ethereal, contemporary — built for mobile → desktop.",
+  "title": "💫 Celebrating Your Brilliance",
+  "subtitle": "An elegant nod to the strength and spirit you embody.",
   "images": [
-    {"src": "images/1.jpg", "alt": "First"}
+    {"src": "1.jpg", "alt": "A woman confidently walking forward"},
+    {"src": "2.jpg", "alt": "A minimal, artistic floral design"}
   ],
   "message": {
     "desktop": [
-      "Hey you —",
+      "To [Colleague's Name] —",
       "",
-      "This is the multiline message for bigger screens.",
-      "It keeps line breaks exactly as written.",
+      "This day is a tribute to the effortless grace and formidable power you bring to the world.",
+      "In a space where excellence is the goal, you don't just participate; you **define** it.",
+      "May your path be paved with the successes you deserve and the recognition you've earned.",
       "",
-      "✨"
+      "Happy Women's Day.",
+      "[Your Name]"
     ],
-    "mobile": "Hey you — Single line for mobile ✨"
+    "mobile": "Happy Women's Day. Keep defining excellence. ✨"
   },
   "music": {
     "src": "music.mp3",
     "type": "audio/mpeg",
-    "title": "Soft Ambient Loop",
-    "meta": "Tap play — minimal controls, maximum vibe."
+    "title": "Inspiring Cinematic Loop",
+    "meta": "Tap play for a high-vibe, minimal soundtrack."
   },
   "slider": { "autoplayMs": 5200 }
 }
