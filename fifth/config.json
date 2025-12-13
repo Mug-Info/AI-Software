@@ -2,8 +2,8 @@
   "title": "💫 Celebrating Your Brilliance",
   "subtitle": "An elegant nod to the strength and spirit you embody.",
   "images": [
-    {"src": "1.jpg", "alt": "A woman confidently walking forward"},
-    {"src": "2.jpg", "alt": "A minimal, artistic floral design"}
+    {"src": "fifth/1.jpg", "alt": "A woman confidently walking forward"},
+    {"src": "fifth/2.jpg", "alt": "A minimal, artistic floral design"}
   ],
   "message": {
     "desktop": [
@@ -19,10 +19,10 @@
     "mobile": "Happy Women's Day. Keep defining excellence. ✨"
   },
   "music": {
-    "src": "music.mp3",
+    "src": "fifth/music.mp3",
     "type": "audio/mpeg",
     "title": "Inspiring Cinematic Loop",
     "meta": "Tap play for a high-vibe, minimal soundtrack."
   },
-  "slider": { "autoplayMs": 5200 }
+  "slider": { "autoplayMs": 10000 }
 }
