@@ -1,28 +1,29 @@
 {
-  "title": "💫 Celebrating Your Brilliance",
-  "subtitle": "An elegant nod to the strength and spirit you embody.",
+  "direction": "rtl",
+  "lang": "fa",
+  "title": "💫 پاسداشت شکوه و توانمندی",
+  "subtitle": "ادای احترامی صمیمی به حضور الهام‌بخش شما",
   "images": [
-    {"src": "fifth/1.jpg", "alt": "A woman confidently walking forward"},
-    {"src": "fifth/2.jpg", "alt": "A minimal, artistic floral design"}
+    { "src": "global/1.jpg", "alt": "1" },
+    { "src": "global/fifth.png", "alt": "2" }
   ],
   "message": {
     "desktop": [
-      "To [Colleague's Name] —",
+      "همکار گرامی —",
       "",
-      "This day is a tribute to the effortless grace and formidable power you bring to the world.",
-      "In a space where excellence is the goal, you don't just participate; you **define** it.",
-      "May your path be paved with the successes you deserve and the recognition you've earned.",
+      "حضور شما، ترکیبی از تعهد، تخصص و ظرافت حرفه‌ای است.",
+      "نقشی که در مسیر رشد و کیفیت ایفا می‌کنید، ارزشمند و ماندگار است.",
       "",
-      "Happy Women's Day.",
-      "[Your Name]"
+      "روز زن مبارک 🌸",
+      "با احترام —",
+      "تیم شرکت"
     ],
-    "mobile": "Happy Women's Day. Keep defining excellence. ✨"
+    "mobile": "روز زن مبارک 🌸 حضورتان ارزشمند است."
   },
   "music": {
-    "src": "fifth/music.mp3",
-    "type": "audio/mpeg",
-    "title": "Inspiring Cinematic Loop",
-    "meta": "Tap play for a high-vibe, minimal soundtrack."
+    "src": "global/1.mp3",
+    "title": "Soft Cinematic Inspiration",
+    "meta": "برای تجربه‌ای آرام و الهام‌بخش، پخش را فعال کنید."
   },
   "slider": { "autoplayMs": 10000 }
 }
